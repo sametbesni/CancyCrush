@@ -1,0 +1,65 @@
+# Candy Crush Game
+
+A simple Candy Crush-style game developed using JavaScript, HTML, and CSS. The game is designed to be responsive and works on both desktop and mobile devices.
+
+## Features
+
+- Drag and drop candies to match three or more in a row.
+- Score points for each match.
+- Limited to 50 moves per game.
+- Game over screen with a refresh button to restart the game.
+
+## How to Play
+
+1. Drag the candies to swap them with adjacent candies.
+2. Form a row or column of at least three candies of the same color to score points.
+3. The game ends after 50 moves.
+4. Click the refresh button to restart the game.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sametbesni/candy-crush-game.git
+   ```
+2. Open `index.html` in your web browser to start playing.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+# Candy Crush Oyunu
+
+JavaScript, HTML ve CSS kullanılarak geliştirilmiş basit bir Candy Crush tarzı oyun. Oyun, duyarlı bir tasarıma sahiptir ve hem masaüstü hem de mobil cihazlarda çalışır.
+
+## Özellikler
+
+- Şekerleri sürükleyip bırakarak üç veya daha fazla aynı renkteki şekeri eşleştirin.
+- Her eşleşme için puan kazanın.
+- Oyun, 50 hamle ile sınırlıdır.
+- Oyunu yeniden başlatmak için bir yenileme butonuna sahip oyun bitiş ekranı.
+
+## Nasıl Oynanır
+
+1. Şekerleri sürükleyerek bitişik şekerlerle değiştirin.
+2. Aynı renkte en az üç şekerden oluşan bir sıra veya sütun oluşturun ve puan kazanın.
+3. Oyun, 50 hamle sonra sona erer.
+4. Oyunu yeniden başlatmak için yenileme butonuna tıklayın.
+
+## Kurulum
+
+1. Depoyu klonlayın:
+   ```bash
+   git clone https://github.com/sametbesni/candy-crush-game.git
+   ```
+2. `index.html` dosyasını web tarayıcınızda açarak oynamaya başlayın.
+
+## Kullanılan Teknolojiler
+
+- HTML
+- CSS
+- JavaScript
